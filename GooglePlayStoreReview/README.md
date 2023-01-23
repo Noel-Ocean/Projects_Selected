@@ -1,3 +1,8 @@
+### Above the project: 
+- Using two datasets of users' reviews of Google Play Store apps
+- Factor analysis: Invesigating the factors impacting users' sentiments towards applications
+- Sentiment analysis and prediction: Building a classifier to predict users' sentiments (pos/neg)
+
 ### About the dataset(s): 
 - Source: https://www.kaggle.com/datasets/lava18/google-play-store-apps
 - Description: This dataset consists of web scraped data of more than 10,000 Google Play Store apps and 60,000 app reviews. `data_apps.csv` consists of data about the apps such as category, number of installs, and price. `data_reviews.csv` holds reviews of the apps, including the text of the review and sentiment scores.
