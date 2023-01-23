@@ -1,4 +1,4 @@
-### Above the project: 
+# About the project: 
 - Using two datasets of users' reviews of Google Play Store apps
 - Factor analysis: Invesigating the factors impacting users' sentiments towards applications
 - Sentiment analysis and prediction: Building a classifier to predict users' sentiments (pos/neg)
