@@ -6,4 +6,5 @@
 3. ["Predicting Credit Card Approvals"](https://app.datacamp.com/workspace/w/987694ac-5427-4908-911a-281df810a383)
 
 ## Public datasets
-1. [Google Play Store Review](https://github.com/Noel-Ocean/Projects/tree/main/GooglePlayStoreReview): factor analysis and sentiment analysis
+1. [Google Play Store - Review](https://github.com/Noel-Ocean/Projects/blob/main/GooglePlayStore_ReviewSentiment.ipynb): Sentiment analysis
+2. [Evolent Health - Review](https://github.com/Noel-Ocean/Projects/blob/main/EvolentHealth_BestBeer.ipynb): Find the best beer
