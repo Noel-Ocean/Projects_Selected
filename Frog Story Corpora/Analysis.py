@@ -272,3 +272,29 @@ def q2_part_of_speech (cleaned_sentences_list, spa_or_eng_model):
 # stopwords_eng = set(stopwords.words("english"))
 # pos_words_eng = q2_part_of_speech_english(df_sample_eng, stopwords_eng)[0]
 # pos_count_eng = q2_part_of_speech_english(df_sample_spa, stopwords_spa)[1]
+
+# ------------------------------ POS short-full ------------------------------ #
+# spacy_pos_dict = {
+#     "ADJ": "Adjective", 
+#     "ADP": "Adposition", 
+#     "ADV": "Adverb",
+#     "AUX": "Auxiliary", 
+#     "CONJ": "Conjunction", 
+#     "CCONJ": "Coordinating conjunction",
+#     "DET": "Determiner", 
+#     "INTJ": "Interjection", 
+#     "NOUN": "Noun",
+#     "NUM": "Numeral", 
+#     "PART": "Particle", 
+#     "PRON": "Pronoun",
+#     "PROPN": "Proper noun", 
+#     "PUNCT": "Punctuation",
+#     "SCONJ": "Subordinating conjunction",
+#     "SYM": "Symbol",
+#     "VERB": "Verb",
+#     "X": "Other",
+#     "SPACE": "Space"
+# }
+
+# df_pos_spa = df_pos_spa.replace({"POS_spa": spacy_pos_dict})
+# df_pos_eng = df_pos_eng.replace({"POS_eng": spacy_pos_dict})
