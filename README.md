@@ -3,7 +3,7 @@
 ## Public datasets
 1. [Google Play Store - Review](https://github.com/Noel-Ocean/Projects/blob/main/GooglePlayStore_ReviewSentiment.ipynb): Sentiment analysis
 2. [Evolent Health - Review](https://github.com/Noel-Ocean/Projects/blob/main/EvolentHealth_BestBeer.ipynb): Find the best beer
-3. [Frog Story Corpora - In progress] (https://github.com/Noel-Ocean/Projects_Selected/tree/main/Frog%20Story%20Corpora): Applied computational linguistics to compare English and Spanish
+3. [Frog Story Corpora - In progress](https://github.com/Noel-Ocean/Projects_Selected/tree/main/Frog%20Story%20Corpora): Applied computational linguistics to compare English and Spanish
 
 ## Mini-projects (from DataCamp learning)
 1. ["Classify Song Genres from Audio Data"](https://app.datacamp.com/workspace/w/0522f101-c693-4e65-9ee6-84f9336abdd8)
