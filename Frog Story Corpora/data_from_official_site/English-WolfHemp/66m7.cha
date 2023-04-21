@@ -1,0 +1,103 @@
+@UTF8
+@PID:	11312/c-00020838-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Christina Target_Child , INV Nina Investigator , CHB
+	child_as_boy Child , MOT Mother , CHF child_as_frog Child
+@ID:	eng|English-WolfHemp|CHI|7;05.|female||MC|Target_Child|||
+@ID:	eng|English-WolfHemp|INV|||||Investigator|||
+@ID:	eng|English-WolfHemp|CHB|||||Child|||
+@ID:	eng|English-WolfHemp|MOT||female|||Mother|||
+@ID:	eng|English-WolfHemp|CHF|||||Child|||
+@Date:	01-JUN-1990
+@Transcriber:	Jessica Buchsbaum/sp02-1992
+@Activities:	frog story with book SWB (8)
+@Situation:	there are people in the next room , eating lunch , for the
+	first few lines of this task; they are unintelligible and
+	neither they nor the subject show any sign of linguistic
+	awareness of the others' existence (no reciprocal hesitation
+	phenomena , no interference which prompts retracing)
+@Types:	cross, narrative, TD
+*INV:	I have another one [^c] .
+*INV:	can you read that [^c] ?
+*INV:	what does that say [^c] ?
+*CHI:	0 . [+ exc]
+%par:	quasi-grunt of effort
+*INV:	want some help [^c] ?
+*CHI:	a boy a dog and a frog [^c] .
+*INV:	just like a first grader should [^c] .
+*INV:	now this one has no words either [^c] .
+*INV:	so you can look at this [^c] look at all the pictures [^c] and when
+	you're done [^c] you can tell me the story about the boy the dog and
+	the frog [^c] .
+*CHI:	0 . [+ exc]
+%act:	looks through book
+*INV:	okay [^c] are you ready to tell me the story [^c] ?
+*INV:	of the boy the dog and the frog [^c] ?
+*CHI:	the boy the dog and the frog [^c] .
+%act:	opens book to begin , but then realizes she hasn't really read the
+	title
+*CHI:	a boy a dog and a frog [^c] .
+*INV:	very good [^c] .
+@Bg
+*CHI:	once upon a time there was that likes to catch things [^c] .
+*CHI:	and he saw .
+*CHI:	when he was .
+*CHI:	and he had .
+*CHI:	and he was .
+*CHI:	but he tripped over a [/] a stump [^c] .
+*INV:	a stump [^c] ?
+*CHI:	yeah [^c] it has +...
+%gpx:	limns form of log with hand
+*INV:	yeah [^c] ?
+*INV:	okay [^c] .
+*CHI:	and he fell .
+*CHI:	and when he came the pail on his head [^c] .
+*INV:	uhhuh [>] [^c] .
+*CHI:	<and the> [<] frog had .
+*CHI:	and then <the &~f> [//] he tried to catch him [^c] but he jumped
+	[^c] .
+*CHI:	and the dog had his mouth open [^c] .
+*CHI:	he had +"/.
+*CHB:	+" go get the net [^c] .
+*CHI:	and he tried to catch the frog [^c] .
+*CHI:	but the frog went <the piece of (.) stump> [//] the stump [^c] .
+*INV:	yeah [^c] ?
+*CHI:	and he caught .
+*INV:	0 . [+ exc]
+%par:	gasp
+*CHI:	and the frog was .
+*INV:	uhhuh [^c] .
+*INV:	why was he sad [^c] ?
+*CHI:	because he [/] he didn't to leave [^c] .
+*INV:	oh okay [^c] .
+*CHI:	and then he started to have a frown on his face [^c] .
+*INV:	uhhuh [^c] .
+*CHI:	and the dog and the boy walked home [^c] .
+*INV:	yeah [^c] .
+*CHI:	and one day the frog thought +"/.
+*CHF:	+" maybe I can go to his house [^c] .
+*CHI:	he follows the tracks of the dog <and the> [//] and the boy [^c] .
+*CHI:	and he followed them into a house [^c] .
+*CHI:	where he found .
+*INV:	uhhuh [^c] .
+*CHI:	and he found .
+*CHI:	when he got .
+*CHI:	and then he walked into the bathroom [^c] .
+*INV:	yeah [^c] .
+*CHI:	and he saw .
+*CHI:	and he got .
+*CHI:	and they all sat .
+*CHI:	the end [^c] .
+@Eg
+*INV:	wonderful job [^c] .
+*INV:	do you remember that one from last year [^c] ?
+*CHI:	yes [^c] .
+*INV:	you do [^c] ?
+*CHI:	yes [^c] .
+*INV:	okay [^c] let me take that [^c] .
+*CHI:	do you wanna do something else [^c] ?
+*CHI:	yes [^c] .
+*MOT:	piece [^c] ?
+*CHI:	no [^c] I don't want pizza [^c] .
+@End

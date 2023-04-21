@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00020794-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Andrew Target_Child , INV Maryann Investigator , CHB
+	child_as_boy Child
+@ID:	eng|English-WolfHemp|CHI|7;07.|male||MC|Target_Child|||
+@ID:	eng|English-WolfHemp|INV|||||Investigator|||
+@ID:	eng|English-WolfHemp|CHB|||||Child|||
+@Date:	10-JUL-1990
+@Transcriber:	Lauren Gilman/sp02-1992
+@Activities:	frog story with book SWB (6)
+@Types:	cross, narrative, TD
+*INV:	do you know this book [^c] ?
+*CHI:	nope [^c] .
+*INV:	no [^c] ?
+*INV:	good [^c] !
+*INV:	can you tell me the title [^c] ?
+*CHI:	a boy a frog and a dog [^c] .
+%act:	bef chi takes book from exp and reads title
+*CHI:	oh [^c] yeah [^c] I've seen this [^c] .
+*INV:	okay [^c] can you do the same [^c] +/.
+*CHI:	but I didn't .
+*INV:	okay [^c] could you look through every page [^c] and then when
+	you're done [^c] (.) you can go back [^c] and tell me all about the
+	book [^c] .
+*INV:	okay [^c] ?
+*INV:	just like the other book [^c] .
+*CHI:	0 . [+ exc]
+%act:	looks through book and then turns back to first page
+*CHI:	okay [^c] .
+@Bg
+*CHI:	there's a boy [^c] that's trying to catch a frog [^c] .
+*CHI:	and (.) then he sees one [^c] .
+*CHI:	he tries to (.) run up [^c] and (.) get (h)im [^c] but he trips
+	over (.) a log [^c] .
+*CHI:	and (.) he lands right in front of the frog [^c] .
+*CHI:	and he doesn't get (h)im [^c] .
+*CHI:	and then the frog I don't think [^c] he likes much [^c] .
+*CHI:	and he tried .
+*CHI:	but the frog jumped out of the way [^c] .
+*CHI:	+^ and then he (.) &-um jumped on top of the log [^c] that he
+	tripped on [^c] .
+*CHI:	and then (.) he told and they surround (h)im [^c] .
+*CHI:	and they both came and then the dog jumped down [^c] and then (.)
+	the boy tried to catch (h)im [^c] but the frog fell .
+*INV:	0 . [+ exc]
+%par:	laughs
+*CHI:	then (.) I don't think [^c] the frog likes this kid [^c] .
+*CHI:	so he [% boy] says [^c] +"/.
+*CHB:	+" I'll get you [^c] if it's the last thing [^c] I do [^c] .
+%com:	chi smiles and changes pitch as he speaks
+*CHI:	and the frog feels sad [^c] I think [^c] .
+*CHI:	and then the boy walks away [^c] .
+*CHI:	very mad and he leaves footprints [^c] .
+*CHI:	<and the dog is> [//] and the frog is still mad [^c] just sitting
+	there [^c] .
+*CHI:	and he's still just sitting there [^c] .
+*CHI:	and then he felt to follow his footprints [^c] .
+*CHI:	and he followed [^c] followed [^c] and they led and they led .
+*CHI:	and he jumped in the tub with them [^c] .
+*CHI:	and he jumped on the frog's head [^c] .
+@Eg
+*INV:	that's great [^c] .
+%par:	laughs
+*INV:	that's a good job [^c] .
+*INV:	do you remember the story from before [^c] ?
+*CHI:	&-um (.) yeah [^c] .
+*INV:	that was great [^c] .
+*INV:	it was a good job [^c] .
+*INV:	did you like that story [^c] ?
+*CHI:	yeah [^c] .
+*INV:	it was fun [^c] .
+%act:	puts away frog book
+@End
