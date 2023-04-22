@@ -153,7 +153,6 @@ def q2_sentence_cleaning (df_dample, spa_or_eng_model):
     word_token = [word_tokenize(i) for i in sentence_list]
     word_token_clean = list(map(lambda x: [i for i in x if not i in stopwords], word_token))
     word_token_clean = list(map(lambda x: [i for i in x if not i in symbols], word_token_clean))
-    word_token_clean = list(map(lambda x: [i for i in x if len(i) >1], word_token_clean))
     word_token_clean = [i for i in word_token_clean if i!= []]
 
     cleaned_words_to_sentences = [" ".join(i) for i in word_token_clean]
@@ -181,8 +180,8 @@ def q2_part_of_speech (cleaned_sentences_list, spa_or_eng_model):
     pos_unique = list(set(pos))
 
     pos_group_dict = {i:[] for i in pos_unique}
-    for pos_set in words_pos_pair:
-        for i in pos_set:
+    for pair in words_pos_pair:
+        for i in pair:
             i_word, i_pos = i[0], i[1]
             pos_group_dict[i_pos].append(i_word)
     
@@ -192,8 +191,30 @@ def q2_part_of_speech (cleaned_sentences_list, spa_or_eng_model):
     output = [pos_group_dict, pos_count_dict]
     return output
 
+# ---------------------------------------------------------------------------- #
+#           Function 5: RQ3: Usage frequenies of interested keywords           #
+# ---------------------------------------------------------------------------- #
+def q3_keyword_frequency(cleaned_sentences_list, keywords_list):
+        '''
+        Function - keywords matching & counting for Research Question 2
+        1. Split the cleaned sentences into words
+        2. Transform each interested keyword to lower case
+        3. For each keyword, count the occurences
+        4. Transform the counting into readable dataframes
+        5. Result = 4
+        '''
+            
+        sentences_to_words = [word_tokenize(i) for i in cleaned_sentences_list]
+        sentences_to_words = list(np.concatenate(sentences_to_words).flat)
 
+        keywords_lower = [i.lower() for i in keywords_list]
+        keywords_count = [sentences_to_words.count(i) for i in keywords_lower]
+        keywords_dict = dict(zip(keywords_lower, keywords_count))
 
+        output = pd.DataFrame(list(keywords_dict.items()))
+        output.columns = ["keyword", "count"]
+
+        return output
 
 
 
